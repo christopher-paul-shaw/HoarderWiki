@@ -1,0 +1,36 @@
+	.c-section {
+		padding: 10px;
+	}
+
+	.c-section div {
+		max-width: 100%;
+		width: 900px;
+		margin: auto;
+	}
+
+	.c-row {
+		padding: 4px;
+	}
+
+	.c-row:nth-child(odd) {
+		background: #efefef;
+	}
+
+	.c-row:hover {
+		background: #ccc;
+	}
+
+	.c-row a {
+		display: block;
+		text-decoration: none;
+	}
+
+	.c-button {
+		display: inline-block;
+		padding: 10px;
+		margin: auto 4px 4px auto;
+		background: #ccc;
+		text-decoration: none;
+		color: #fff;
+		font-weight: bold;
+	}

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpgt/webengine": "^2.2",
+        "christopher-paul-shaw/article": "v0.0.3",
+        "erusev/parsedown": "^1.7"
+    }
+}
